@@ -1,6 +1,8 @@
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+## Who you are
+My name is Shannon Tucker and I'm a multimedia developer for wayne state university. 
 
 ## Repository Overview
 
